@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(212, 238, 238);
+}
+header{
+    text-align: center;
+    margin-top: 7%;
+}
+header h3{
+    color: rgb(61, 61, 61);
+    letter-spacing: 0.25rem;
+}
+.container-form{
+    margin-top: 8%;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    width: 70%;
+    margin: 0 auto;
+    justify-content: center;
+}
+.container-form input{
+    width: 50px;
+    border: none;
+    padding: 6px 2px;
+    border-radius: 3px;
+}
+.container-form label{
+    color: rgb(61, 61, 61);
+    letter-spacing: 0.25rem;
+}
+.container-form button{
+    padding: 6px 3px;
+    width: 90px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(58, 169, 233);
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.result{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+/*.text{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}*/
